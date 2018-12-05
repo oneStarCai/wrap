@@ -1,4 +1,4 @@
-# wrap
+# wraper
   include compliler, linker, run time wraper
 
 ## compiling
